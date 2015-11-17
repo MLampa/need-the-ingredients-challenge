@@ -1,0 +1,2 @@
+instructions: 
+curl --data-urlencode "ingredient=1/2 teaspoon freshly ground black pepper" localhost:4567/ingredients
